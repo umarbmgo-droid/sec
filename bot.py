@@ -10,7 +10,7 @@ from typing import Optional
 
 # ===== CONFIGURATION =====
 TOKEN = os.environ.get('TOKEN')
-OWNER_ID = 361069640962801664  # Your Discord ID
+OWNER_ID = 253335267618848778  # Your Discord ID
 START_TIME = time.time()
 
 # Whitelisted role IDs that can ONLY be given to whitelisted users
